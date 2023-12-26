@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mrmohitg
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java
+- 👀 I’m interested in Java and Salesforce
+- 🌱 I’m currently learning Java and Salesforce
+- 💞️ I’m looking to collaborate on Java and Salesforce
 - 📫 How to reach me mr.mohit.gupta.gi@gmail.com
 
 <!---
